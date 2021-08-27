@@ -1,0 +1,33 @@
+{
+  "name": "starwarsback",
+  "version": "1.0.0",
+  "description": "a backend server I worked up for an assessment test for HalfSerious",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussama921/StarWarsHSBE.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "server",
+    "express",
+    "axios"
+  ],
+  "author": "Bedoui Oussama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oussama921/StarWarsHSBE/issues"
+  },
+  "homepage": "https://github.com/oussama921/StarWarsHSBE#readme"
+}
